@@ -34,4 +34,8 @@ Check Jenkins Status to ensure its enable and running .
 
 ![jenkins status post installation](https://github.com/user-attachments/assets/8cbdd8ef-b9cc-4964-a7fe-aaa8f80004b6)
 
+Activate port 8080 on the EC2 instance inbound rule to enable access OF Jenkins through the browser 
+
+![port 8080 activation](https://github.com/user-attachments/assets/0a830340-c1b7-4fdd-8f2b-8cb7db4b6483)
+
 
