@@ -58,7 +58,15 @@ install provided plugings
 
 Dont log as an admin but use your own credentials with a password to log in so that not everyone can access jenkins .
 
-![log in as a user ](https://github.com/user-attachments/assets/1d16b501-95e3-4f04-8544-33fae71c4209)
+![log in as a user ](https://github.com/user-attachments/assets/1d16b501-95e3-4f04-8544-33fae71c4)
+
+further configurations 
+
+![Screenshot 2025-06-16 165435](https://github.com/user-attachments/assets/6bebbaea-5b5e-48cd-a554-71dfaa482121)
+ 
+
+
+
 
 
 
