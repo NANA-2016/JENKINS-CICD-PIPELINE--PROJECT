@@ -36,6 +36,23 @@ Check Jenkins Status to ensure its enable and running .
 
 Activate port 8080 on the EC2 instance inbound rule to enable access OF Jenkins through the browser 
 
+## ACCESSING JENKINS 
+
 ![port 8080 activation](https://github.com/user-attachments/assets/0a830340-c1b7-4fdd-8f2b-8cb7db4b6483)
+
+Access the the jenkins file fron the browser using "http://<public-ip-adress>:8080
+
+Coppy the file higlighted below to get jenkins password .
+
+![jenkins page and file ](https://github.com/user-attachments/assets/a5e22b34-6eaf-4847-b75c-023b85af3f8f)
+
+Use the comnand "sudo cat /var/lib/jenkins/secrets/initialAdminPassword" and the outpot will be your pasword to access jenkins 
+
+![image](https://github.com/user-attachments/assets/2e93de4a-50b2-4138-85c9-16b2cdd435fd)
+
+install provided plugings 
+
+![install plugings provided by jenkins for start ](https://github.com/user-attachments/assets/ce964689-2da5-4066-98fe-a86655b0f870)
+
 
 
