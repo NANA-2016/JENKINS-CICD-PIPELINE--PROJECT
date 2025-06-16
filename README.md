@@ -54,5 +54,12 @@ install provided plugings
 
 ![install plugings provided by jenkins for start ](https://github.com/user-attachments/assets/ce964689-2da5-4066-98fe-a86655b0f870)
 
+## Security measures on Jenkins server .
+
+Dont log as an admin but use your own credentials with a password to log in so that not everyone can access jenkins .
+
+![log in as a user ](https://github.com/user-attachments/assets/1d16b501-95e3-4f04-8544-33fae71c4209)
+
+
 
 
