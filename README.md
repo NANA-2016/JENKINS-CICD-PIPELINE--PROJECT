@@ -89,6 +89,18 @@ Manage Jenkins-click on tool-Edit Git(give it a name of choice)- add the git pat
 
 
 
+
+
+## Test 
+
+Configure freestyle project 
+
+![edit freestyle project ](https://github.com/user-attachments/assets/447376aa-9d79-4fa4-9e9a-e0566ff0c2f6)
+
+
+
+
+
  
 
 
