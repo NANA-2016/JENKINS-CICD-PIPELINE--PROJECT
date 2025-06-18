@@ -76,6 +76,18 @@ Got to jenkins- Manage Jenkins-confuguration-available plugins-git plugin
 
 ![installed git plugin on jenkiins ](https://github.com/user-attachments/assets/ce7661fd-41b5-4e16-a7a9-dd806fd35e62)
 
+## Confugure Git in jenkins 
+
+This step is done as Jenkins uses gitfor all confugurations that use sorce code management tools.If not well confuguared . You are likely to get errors like "Cannot find git executable or No such file or 
+
+directory: git" in your builds.
+
+Manage Jenkins-click on tool-Edit Git(give it a name of choice)- add the git pathway(to get the pathway, go to terminal and use the command "which git")- save the changes 
+
+![confugure git in jenkins](https://github.com/user-attachments/assets/0350bafa-0782-4ea3-9aaf-1aa2a360d69f)
+
+
+
 
  
 
