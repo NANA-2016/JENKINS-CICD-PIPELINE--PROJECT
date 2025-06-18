@@ -64,7 +64,7 @@ further configurations
 
 ![Screenshot 2025-06-16 165435](https://github.com/user-attachments/assets/6bebbaea-5b5e-48cd-a554-71dfaa482121)
 
-###INTEGRATE JENKINS WITH GIT AND GITHUB
+### INTEGRATE JENKINS WITH GIT AND GITHUB
 
 ## Git plugin installed on Jenkins 
 
