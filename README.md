@@ -97,6 +97,9 @@ Configure freestyle project
 
 ![edit freestyle project ](https://github.com/user-attachments/assets/447376aa-9d79-4fa4-9e9a-e0566ff0c2f6)
 
+configure pipeleine project
+
+![jenkins pipeline to connect to githubweebhook](https://github.com/user-attachments/assets/c6858193-31d6-45fc-b2d7-26439ed9dfc0)
 
 
 
