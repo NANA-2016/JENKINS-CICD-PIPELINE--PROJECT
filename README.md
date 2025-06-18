@@ -97,9 +97,19 @@ Configure freestyle project
 
 ![edit freestyle project ](https://github.com/user-attachments/assets/447376aa-9d79-4fa4-9e9a-e0566ff0c2f6)
 
-configure pipeleine project
 
 ![jenkins pipeline to connect to githubweebhook](https://github.com/user-attachments/assets/c6858193-31d6-45fc-b2d7-26439ed9dfc0)
+
+Step by step guide for setting up jenkins pipeline
+
+![editing jenkins pipeline ](https://github.com/user-attachments/assets/02a9048e-5a1a-48a4-861f-ffd9852986b0)
+
+
+# Installing Docker 
+
+First open a docker file and edit the file to open Docker 
+
+![creating and editing docker file to install docker](https://github.com/user-attachments/assets/ab32fe26-4d47-43ef-8a20-5c0860ed9e88)
 
 
 
