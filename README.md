@@ -63,6 +63,20 @@ Dont log as an admin but use your own credentials with a password to log in so t
 further configurations 
 
 ![Screenshot 2025-06-16 165435](https://github.com/user-attachments/assets/6bebbaea-5b5e-48cd-a554-71dfaa482121)
+
+###INTEGRATE JENKINS WITH GIT AND GITHUB
+
+## Git plugin installed on Jenkins 
+
+Got to jenkins- Manage Jenkins-confuguration-installed plugins
+
+If not already installed 
+
+Got to jenkins- Manage Jenkins-confuguration-available plugins-git plugin
+
+![installed git plugin on jenkiins ](https://github.com/user-attachments/assets/ce7661fd-41b5-4e16-a7a9-dd806fd35e62)
+
+
  
 
 
